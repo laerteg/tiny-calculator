@@ -1,9 +1,9 @@
 language: node_js
 
 node_js:
-   - 0.10
+ - 0.10
 
 build:
-    ci:
-      - npm install
-      - npm test
+ ci:
+  - npm install
+  - npm test
